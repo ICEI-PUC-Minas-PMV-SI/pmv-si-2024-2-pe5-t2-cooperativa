@@ -18,7 +18,6 @@
 * Marcus Vinicius Pereira Xavier
 * Maria Kauffmann
 * Renan Fernandes Borges
-* Vinícius Alves Gontijo
 
 ## Orientador
 
